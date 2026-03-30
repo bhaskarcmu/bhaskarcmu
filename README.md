@@ -30,7 +30,7 @@ An AI agent searches a live FHIR server, fetches medications and allergies, runs
 I’ve deployed a live instance on Google Cloud. You can interact with it using the provided Python client.
 
 - 📦 Install: `pip install fhir-clinical-client`  
-- 🔑 [Request a trial API key](https://github.com/your-username/fhir-agent/issues/new?template=api-key-request.md) (I'll send one within 24h)  
+- 🔑 [Request a trial API key](https://github.com/your-username/fhir-agent/issues/new?template=api-key-request.md) (also feel free to message me on LinkedIn for a key)  
 - 📚 Then run the [demo notebook](https://github.com/your-username/fhir-agent/blob/main/demo.ipynb) or follow the README.
 
 ---
