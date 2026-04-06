@@ -4,7 +4,7 @@
 I'm a software professional and people leader, passionate about building AI‑powered healthcare platforms.  
 My recent work is a production‑grade **Agentic Healthcare Platform** that lets clinicians ask natural‑language questions and get clinical risk assessments backed by real FHIR data.
 
-## 🔥 Featured Project: Agentic Healthcare Workflow Platform
+## 🔥 Featured Project: Agentic Healthcare Workflow Platform with FHIR SaaS Backend
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-fhir--agent-blue?logo=github)](https://github.com/your-username/fhir-agent)
 [![Tests](https://img.shields.io/github/actions/workflow/status/your-username/fhir-agent/test.yml?branch=main&label=tests)](https://github.com/your-username/fhir-agent/actions)
